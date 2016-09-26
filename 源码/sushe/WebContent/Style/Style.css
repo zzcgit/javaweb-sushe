@@ -1,0 +1,36 @@
+body {
+	margin-top: 0px;
+}
+body,td,th {
+	font-family: 宋体;
+	font-size: 12px;
+}
+form {
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+}
+.STYLE2 {
+	color:#333;
+}
+.box1 {
+	width:250px;
+	height:20px;
+}
+/*.box2 {
+	width:250px;
+	height:90px;
+}*/
+.box2 {
+	width:500px;
+	height:300px;
+}
+.noshow{ display:none;}
+A:link{   COLOR:#333;   TEXT-DECORATION:   none;   }   
+A:visited{   COLOR: #333;   TEXT-DECORATION:   none;    }   
+A:active{   COLOR: #333;   TEXT-DECORATION:   none;  }   
+A:hover{   COLOR:#FF3300;   TEXT-DECORATION:   none; }   
+
+A.left1:link{   COLOR:#2160c1; font-weight:bolder;  TEXT-DECORATION:   none;   }   
+A.left1:visited{   COLOR:   #2160c1; font-weight:bolder; TEXT-DECORATION:   none;    }   
+A.left1:active{   COLOR:   #2160c1;  font-weight:bolder; TEXT-DECORATION:   none;  }   
+A.left1:hover{   COLOR:#FF3300;  font-weight:bolder; TEXT-DECORATION:   none; }   
